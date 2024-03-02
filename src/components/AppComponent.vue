@@ -16,7 +16,7 @@
                     <li>You can check your current status anywhere.</li>
                 </ul>
             </div>
-            <a style="color: #000" class="btn" href="https://play.google.com/store/apps/details?id=com.softifybd.firenet&pcampaignid=web_share">
+            <a style="color: #000;text-align:center" class="btn" href="https://play.google.com/store/apps/details?id=com.softifybd.firenet&pcampaignid=web_share">
                 Download                
             </a>
         </div>
