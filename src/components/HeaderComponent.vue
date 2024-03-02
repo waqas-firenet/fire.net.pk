@@ -5,8 +5,8 @@
     <div class="header">
         <img src="../assets/logo.png" alt="logo" class="logo">
         <div class="heading">
-            <span>FIRE.NET.PK</span>
-            <span>SERVICES</span>
+            <span>FIRE.NET</span>
+            <span>(PRIVATE) LIMITED</span>
         </div>
     </div>
 

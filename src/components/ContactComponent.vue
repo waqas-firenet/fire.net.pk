@@ -22,6 +22,9 @@
             </div>
         </div>
     </div>
+    <div class="footer">
+        <p>Copyright &copy; 2021. All rights reserved. Fire.Net (Private) Ltd.</p>
+    </div>
 </template>
 
 
@@ -60,31 +63,39 @@ export default {
     /* align-items: center; */
     padding: 24px 30px;
     text-align: left;
+    background-color: #f2a084;
 }
 
 .section .content-section .title {
     font-size: 62px;
 }
+
 .section .content-section .social img {
     width: 100px;
 }
-
+.footer {
+    background-color: #f2a084;
+    text-align: center;
+    font-size: 10px;
+    padding: 4px;
+}
 
 @media screen and (max-width: 768px) {
     .section {
         flex-direction: column;
     }
+
     .section .image-section {
         width: 100%;
     }
+
     .section .image-section img {
         height: auto;
     }
+
     .section .content-section {
         padding: 24px;
         width: 80%;
         height: 75vh;
     }
-}
-
-</style>
+}</style>
